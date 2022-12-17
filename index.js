@@ -1,2 +1,1 @@
-const array = [];
-console.log(array);
+console.log("added")
